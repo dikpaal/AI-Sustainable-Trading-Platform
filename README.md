@@ -29,14 +29,13 @@ The assistant (styled after **Monkey D. Luffy**) chats with users to:
 
 ---
 
-## 🧠 My Contributions
+## 🧠 Contributions
 
-As the lead on the **AI and AWS architecture**, I was responsible for engineering the backend intelligence and deploying it across a scalable AWS infrastructure:
-
+Responsible for engineering the backend intelligence and deploying it across a scalable AWS infrastructure:
 
 ### **Architecture**
 
-EcoCircle's backend is designed around a **serverless, event-driven AWS pipeline** for scalability and real-time inference.
+Our backend is designed around a **serverless, event-driven AWS pipeline** for scalability and real-time inference.
 
 #### Key Components
 
@@ -51,7 +50,7 @@ EcoCircle's backend is designed around a **serverless, event-driven AWS pipeline
 - **Amazon S3**: Stores fetched media and model files for frontend access.
 
 
-I designed and implemented this architecture by:
+Designed and implemented this architecture by:
 
 - Architecting the Lambda invocation structure for low-latency, modular execution.
 - Integrating LLaMA 3.1 via Bedrock for GenAI-based interaction.
