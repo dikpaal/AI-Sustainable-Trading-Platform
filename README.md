@@ -1,6 +1,6 @@
 # 🍃 AI Sustainable Trading Platform
 
-EcoCircle is an AI-powered sustainable marketplace platform. The application helps users sell used items or explore creative upcycling ideas with AI-generated suggestions, all while promoting eco-friendly decisions through sustainability scoring and buyer-seller matchmaking.
+EcoCircle is an AI-powered sustainable trading platform. The application helps users sell used items or explore creative upcycling ideas with AI-generated suggestions, all while promoting eco-friendly decisions through sustainability scoring and buyer-seller matchmaking.
 
 ---
 
@@ -20,7 +20,7 @@ EcoCircle is an AI-powered sustainable marketplace platform. The application hel
 
 ## ⚙️ How It Works
 
-The assistant (styled after **Monkey D. Luffy**) chats with users to:
+The assistant chats with users to:
 - Collect item details
 - Predict sustainability score
 - Generate reuse/upcycle suggestions
